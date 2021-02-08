@@ -13,13 +13,14 @@
 * Royal swedish army
 * Swedish parlament
 * Thule society
-* Skadi's daughter's
+* Skadi's daughters
 
 ## Timeline
 
 Historical timeline:
 * Jan 1933: hitler comes to power
 * July 1937: Japan invades China
+* July 1936 - April 1939: spanish civil war
 * 1 Sept 1939: germany invades Poland
 * 3 Sept 1939: france and england declare war to Germany
 * July-October: germany bombs england
