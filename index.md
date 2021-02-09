@@ -23,6 +23,10 @@ Historical timeline:
 * July 1936 - April 1939: spanish civil war
 * 1 Sept 1939: germany invades Poland
 * 3 Sept 1939: france and england declare war to Germany
+* early april 1940: british mine norwegian ports
+* 7th April 1940: german fleet leaves harbor for Norway
+* 9th April 1940: Germans invade Denmark and assault on Norway starts
+* 13 April 1940:
 * July-October: germany bombs england
 
 ## Dark forces
